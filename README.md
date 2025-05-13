@@ -15,7 +15,7 @@ Class Faiq{
 
     public Faiq(String name, String location, Integer Age){
         this.name = "Faiq Khoirul Muna";
-        this.email = "Male";
+        this.gender = "Male";
         this.age = 20;
     }
 }
