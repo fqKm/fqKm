@@ -13,7 +13,7 @@ Class Faiq{
     String gender;
     Integer age;
 
-    public Faiq(String name, String location, Integer Age){
+    public Faiq(String name, String gender, Integer age){
         this.name = "Faiq Khoirul Muna";
         this.gender = "Male";
         this.age = 20;
